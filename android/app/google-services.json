@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806473882846",
+    "project_id": "corlander-app",
+    "storage_bucket": "corlander-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806473882846:android:21abce6f84c31f6fe9764f",
+        "android_client_info": {
+          "package_name": "com.example.corlander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806473882846-c1cubsts4vri8i04f5qlta7uti7mskpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMf8pISWQ6iYxa8FmQU0LDN-7fQlnsF8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806473882846-c1cubsts4vri8i04f5qlta7uti7mskpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
